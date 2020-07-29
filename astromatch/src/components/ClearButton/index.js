@@ -6,7 +6,7 @@ import styled from 'styled-components'
 
 const ClearButton = styled.button`
 	position: fixed;
-	bottom: 5px;
+	bottom: 0px;
 	right: 5px;
 `
 
