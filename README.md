@@ -1,5 +1,5 @@
 
-# AstroMatch :kissing_closed_eyes:
+# AstroMatch :couplekiss:
 A datting app - with quite unusual users.
 
 <p align="center">
