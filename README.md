@@ -6,7 +6,7 @@ A datting app - with quite unusual users.
 <img src="https://github.com/Meira-JH/AstroMatch/blob/master/astromatch/src/img/logo.png"/>
 </p>
 
-Astromatch is a front-end development project of an imaginary web-desktop-first responsive application, as an activity result of Labenu's full-stack development course. This code was mostly estructured and executed by Labenu's teachers Soter Padua and Pedro Darvas. I was responsible for developing React-Redux routes and some specific layout features on the SwipeScreen, MatchScreen and ProfileScreen components.
+Astromatch is a front-end development project of an imaginary web-mobile-first responsive application, as an activity result of Labenu's full-stack development course. This code was mostly estructured and executed by Labenu's teachers Soter Padua and Pedro Darvas. I was responsible for developing React-Redux routes and some specific layout features on the SwipeScreen, MatchScreen and ProfileScreen components.
 
 ## Tools and technologies
 
