@@ -56,7 +56,7 @@ Astromatch is a front-end development project of an imaginary web-mobile-first r
 On your terminal, type:
 
 ```
-git clone 
+git clone https://github.com/Meira-JH/AstroMatch
 ```
 
 Install dependencies:
